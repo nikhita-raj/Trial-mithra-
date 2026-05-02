@@ -1,0 +1,15 @@
+flwr
+pandas
+numpy
+scikit-learn
+flask
+flask-cors
+streamlit
+matplotlib
+seaborn
+deep-translator
+langdetect
+groq
+python-dotenv
+requests
+SQLAlchemy

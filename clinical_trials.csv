@@ -1,0 +1,11 @@
+trial_id,trial_name,disease,min_age,max_age,min_bp,max_bp,min_sugar,max_sugar,status
+T001,Diabetes Management Study,diabetes,18,65,80,140,70,180,active
+T002,Hypertension Control Trial,hypertension,25,70,90,160,70,200,active
+T003,Heart Disease Prevention,heart_disease,30,75,85,150,70,200,recruiting
+T004,Cancer Treatment Research,cancer,21,80,70,130,70,200,active
+T005,Mental Health Support Study,mental_health,18,60,75,135,70,200,recruiting
+T006,Asthma & Respiratory Care,respiratory,18,65,70,130,70,200,recruiting
+T007,Arthritis Pain Relief,arthritis,40,85,80,150,70,200,active
+T008,Obesity & Metabolism Study,obesity,18,55,80,140,70,200,recruiting
+T009,Migraine Prevention Trial,migraine,18,60,70,130,70,200,active
+T010,Kidney Function Improvement,kidney_disease,30,75,80,150,70,200,recruiting
